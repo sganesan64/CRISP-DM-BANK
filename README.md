@@ -28,3 +28,4 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
  Text(0.2, 0.125, 'gini = 0.0\nsamples = 1\nvalue = [0, 1]'),
  Text(0.6, 0.125, 'gini = 0.0\nsamples = 1\nvalue = [1, 0]'),
  Text(0.8, 0.375, 'gini = 0.0\nsamples = 358\nvalue = [0, 358]')]
+<img path="images/Bank_Addition_base Model.png" \>
