@@ -18,3 +18,13 @@ There are four datasets:
 The smallest datasets are provided to test more computationally demanding machine learning algorithms (e.g., SVM). 
 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
+### Baeline Model - using small dataset from Bank_addditional.csv 
+[Text(0.4, 0.875, 'x[10] <= 0.082\ngini = 0.194\nsamples = 3295\nvalue = [2936, 359]'),
+ Text(0.2, 0.625, 'gini = 0.0\nsamples = 2935\nvalue = [2935, 0]'),
+ Text(0.30000000000000004, 0.75, 'True  '),
+ Text(0.6, 0.625, 'x[10] <= 0.332\ngini = 0.006\nsamples = 360\nvalue = [1, 359]'),
+ Text(0.5, 0.75, '  False'),
+ Text(0.4, 0.375, 'x[8] <= 0.082\ngini = 0.5\nsamples = 2\nvalue = [1, 1]'),
+ Text(0.2, 0.125, 'gini = 0.0\nsamples = 1\nvalue = [0, 1]'),
+ Text(0.6, 0.125, 'gini = 0.0\nsamples = 1\nvalue = [1, 0]'),
+ Text(0.8, 0.375, 'gini = 0.0\nsamples = 358\nvalue = [0, 358]')]
